@@ -1,6 +1,6 @@
 ---
 title: Karl Daher
-role: Professor of Artificial Intelligence
+role: Researcher and Innovator
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
