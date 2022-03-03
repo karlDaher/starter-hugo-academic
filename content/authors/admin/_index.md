@@ -1,8 +1,8 @@
 ---
 title: Karl Daher
 role: Researcher and Innovator
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research and development interest includes emotions, empathy, and social
+  platforms.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
