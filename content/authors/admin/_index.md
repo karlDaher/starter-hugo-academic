@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/karl-daher-ba38b271/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Fribourg
+    url: https://www.unifr.ch/home/en/
 education:
   courses:
     - course: PhD in Artificial Intelligence
