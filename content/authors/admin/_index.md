@@ -5,9 +5,9 @@ avatar_filename: profile-cropped.png
 bio: My research and development interest includes emotions, empathy, and social
   platforms.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Empathic Interactions
+  - Emotional attachement
+  - ""
 social:
   - icon: envelope
     icon_pack: fas
