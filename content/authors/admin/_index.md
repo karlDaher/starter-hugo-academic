@@ -26,17 +26,19 @@ social:
 organizations:
   - name: University of Fribourg
     url: https://www.unifr.ch/home/en/
+  - name: University of Applied Sciences Western Switzerland
+    url: https://www.hes-so.ch/accueil
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD Candidate in Informatics
+      institution: University of Fribourg
+      year: 2022
+    - course: MSc in computer and communication engineering
+      institution: Lebanese International University
+      year: 2016
+    - course: BSc in computer and communication engineering
+      institution: Lebanese International University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 email: ""
 superuser: true
 highlight_name: true
