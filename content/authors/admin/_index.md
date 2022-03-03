@@ -1,6 +1,7 @@
 ---
 title: Karl Daher
 role: Researcher and Innovator
+avatar_filename: profile-cropped.png
 bio: My research and development interest includes emotions, empathy, and social
   platforms.
 interests:
